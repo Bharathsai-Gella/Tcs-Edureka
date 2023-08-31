@@ -1,4 +1,2 @@
-This is my first file.
-To test git restore
-Demo lineee
-founehdhr
+This is my first file
+
